@@ -28,6 +28,9 @@ body {
 .travel-color {
   color: #ff5400;
 }
+.travel-head {
+  color: #ff5400;
+}
 
 .ancor-list {
   display: flex;
@@ -360,3 +363,5 @@ body {
 .finishing-description {
   margin-top: 50px;
 }
+
+/* media query styles */
